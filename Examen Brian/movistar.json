@@ -1,0 +1,46 @@
+{
+    "usuarios": {
+        "usuario1": {
+            "nombre": "Brian Suarez",
+            "numId": "1098719447",
+            "direccion": "Cl 10 #14-52 T1 Apto 405",
+            "fechaInicio": "19-12-2024",
+            "serviciosActivos": [
+                "Television Digital",
+                "Telefonia Nacional"
+            ],
+            "tipoCliente": "nuevo",
+            "interacciones": {
+                "quejas": "",
+                "sugerencias": "",
+                "preguntas": ""
+            }
+        }
+    },
+    "servicios": {
+        "Internet Fibra Optica": {
+            "caracteristicas": "Internet Alta velocidad para ciudad",
+            "precio": "140000"
+        },
+        "Television Digital": {
+            "caracteristicas": "Television HD para ubicaciones dentro de las ciudades",
+            "precio": "100000"
+        },
+        "Telefonia Nacional": {
+            "caracteristicas": "Llamadas nacionales ilimitadas",
+            "precio": "50000"
+        },
+        "Telefonica internacional": {
+            "caracteristicas": "Llamadas internacionales ilimitadas",
+            "precio": "300000"
+        },
+        "Plan Datos Post Pago": {
+            "caracteristicas": "Datos de hasta 3GB mensuales",
+            "precio": "80000"
+        },
+        "Plan Datos Prepago": {
+            "caracteristicas": "Datos de 1GB hasta terminar consumo",
+            "precio": "200000"
+        }
+    }
+}
