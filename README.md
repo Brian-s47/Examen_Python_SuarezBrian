@@ -1,5 +1,6 @@
-# Título
-Esta de una decripción
+# Examen Python Suarez Brian
+
+Examen de diagnostico de modulo 1 Python donde se realiza un programa para la gestion de servicios de la empresa Movistar, emn la cual se debe tener en cuenta diferentes modulos dando priuoridad a la realizacion de CRUD.
 
 ## Tabla de contenidos
 | Indice | Titulo  |
@@ -11,7 +12,7 @@ Esta de una decripción
 | 5 | Sección 5 |
 
 ### Instalaciones 
-Deberas ejecutar este comando para descargar 
+Solo se requiere el visual Studio Code 
 
 ```bash
 sudo apt install app
@@ -25,7 +26,7 @@ sudo apt install app
 - Ítem 2
 - Ítem 3
 
-Hecho por [algunapersona](https://algunapersonaenestemundo)
+Hecho por [Brian Fair Suarez Porras](https://github.com/Brian-s47)
 
 >Este texto será una cita.
 
@@ -33,13 +34,14 @@ Hecho por [algunapersona](https://algunapersonaenestemundo)
 >Esto es una nota especial
 
 > [!TIP]
-> Esto es un tip
+> El programa fue realizado en visual studio code en sistema operativo linux
 
 > [!IMPORTANT]  
-> Esto es información importante
+> La sustentacion del proyecto se encuentra en el siguiente Link:
+> https://drive.google.com/file/d/1Zo80WDGsEgEEmpZMvi9uNzeRzImDG2uV/view?usp=sharing
 
 > [!WARNING]  
 > Esto es una alerta
 
 > [!CAUTION]
-> Esto es una advertencia
+> El programa no esta completado en su totalidad
