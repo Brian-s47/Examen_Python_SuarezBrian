@@ -1,47 +1,28 @@
-# Examen Python Suarez Brian
-
-Examen de diagnostico de modulo 1 Python donde se realiza un programa para la gestion de servicios de la empresa Movistar, emn la cual se debe tener en cuenta diferentes modulos dando priuoridad a la realizacion de CRUD.
+# Gestion de Servicios Movistar
 
 ## Tabla de contenidos
 | Indice | Titulo  |
 |--|--|
-| 1 | Sección 1 |
-| 2 | Sección 2 |
-| 3 | Sección 3 |
-| 4 | Sección 4 |
-| 5 | Sección 5 |
+| 1 | Descripcion |
+| 2 | Obgetivos |
+| 3 | Links Importantes |
 
-### Instalaciones 
-Solo se requiere el visual Studio Code 
+### Descripcion:
 
-```bash
-sudo apt install app
-```
+Programa que le permita llevar el manejo de servicios para una empresa prestadora de servicios de internet telefonia y television. 
 
-### Como se juega 
-![imagen gato](./gato.png)
+### Obgetivos:
 
-### Sección 
-- Ítem 1
-- Ítem 2
-- Ítem 3
+Se busca como obgetivo evaluar los ocnocimientos de python adquiridos mediante SCRUD , Para el manejo de listas y directorio, archivos JSON, y manejo general de comandos basicos del lenguaje
+estudiado
 
-Hecho por [Brian Fair Suarez Porras](https://github.com/Brian-s47)
+### Links Importantes:
 
->Este texto será una cita.
-
-> [!NOTE]
->Esto es una nota especial
-
-> [!TIP]
-> El programa fue realizado en visual studio code en sistema operativo linux
-
-> [!IMPORTANT]  
-> La sustentacion del proyecto se encuentra en el siguiente Link:
-> https://drive.google.com/file/d/1Zo80WDGsEgEEmpZMvi9uNzeRzImDG2uV/view?usp=sharing
+> Link para descarga del programa completo:
+> https://drive.google.com/drive/folders/1j7CvZyWnLzKm6L_BCCc_bNTigycXnM_x?usp=sharing
 
 > [!WARNING]  
-> Esto es una alerta
+> El programa no esta fianlizado en su totalidad.
 
-> [!CAUTION]
-> El programa no esta completado en su totalidad
+
+
